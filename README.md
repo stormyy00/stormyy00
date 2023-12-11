@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently studying @ UCR CS
 - ⚡ Fun fact: I usually tell the waitress I like my eggs nogged (eggnog) 
 - 📫 How to reach me: jonathan.trujillo0432@gmail.com
 <!--
