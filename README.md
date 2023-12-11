@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- ⚡ Fun fact: I usually tell the waitress I like my eggs nogged (eggnog) 
+- 📫 How to reach me: jonathan.trujillo0432@gmail.com
 <!--
 **stormyy00/stormyy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
