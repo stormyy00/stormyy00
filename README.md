@@ -1,7 +1,6 @@
-### Hi there 👋
-- 🌱 I’m currently studying @ UCR CS
-- ⚡ Fun fact: I bench 285 
-- 📫 How to reach me: jonathan.trujillo0432@gmail.com
+### Ascending in code and building great things
+![image](https://github.com/user-attachments/assets/283ff503-7000-4cd3-a5e5-4ccd46cfb187)
+
 <!--
 **stormyy00/stormyy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
